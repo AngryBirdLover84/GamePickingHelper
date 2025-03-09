@@ -39,3 +39,20 @@ p {
     background: #ffcc00;
     color: white;
 }
+
+.menu-btn {
+    background: white;
+    color: #ff6600;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.3s;
+}
+
+.menu-btn:hover {
+    background: #ffcc00;
+    color: white;
+}
